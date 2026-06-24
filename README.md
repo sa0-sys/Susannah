@@ -8,11 +8,20 @@ I hold an **MSc in Cybersecurity** from Munster Technological University in Irel
 
 ## 🛠️ Tools & Technologies
 
-**SIEM & Monitoring** - Splunk, AWS CloudTrail, Microsoft Sentinel
-**Vulnerability Assessment** - Nessus, Qualys, Burp Suite
-**Cloud & Identity** - AWS IAM, Google Workspace, Entra ID, Okta
-**Frameworks** - MITRE ATT&CK, NIST 800-61, IEC 62443
-**OT/ICS** - Modbus, DNP3, EtherNet/IP, OpenPLC, Conpot.
+**SIEM & Monitoring** 
+Splunk, AWS CloudTrail, Microsoft Sentinel
+
+**Vulnerability Assessment** 
+Nessus, Qualys, Burp Suite
+
+**Cloud & Identity**  
+AWS IAM, Google Workspace, Entra ID, Okta
+
+**Frameworks**  
+MITRE ATT&CK, NIST 800-61, IEC 62443
+
+**OT/ICS**  
+Modbus, DNP3, EtherNet/IP, OpenPLC, Conpot.
 
 ---
 
